@@ -55,16 +55,12 @@ body {
 .glow-red {
   box-shadow: 0 0 15px rgba(255, 77, 77, 0.3);
 }
-
 .glow-green {
   box-shadow: 0 0 15px rgba(0, 255, 157, 0.3);
 }
-
 .glow-amber {
   box-shadow: 0 0 15px rgba(255, 176, 0, 0.3);
 }
-
-/* Scrollbar styling for dark mode */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
